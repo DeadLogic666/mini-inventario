@@ -27,6 +27,6 @@ public class MiniInventarioApplication implements CommandLineRunner {
         //dao.save(categoria);
         //dao.deleteById(categoria.getIdCategoria());
         //IO.println(dao.findById(3L));
-        IO.println("Estoy Trabajando...");
+        System.out.println("Estoy Trabajando...");
     }
 }
